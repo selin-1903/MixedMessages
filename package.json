@@ -1,0 +1,11 @@
+{
+    "name": "HarryPotter-Characters",
+    "description": "This is a Codecademy Project named Mixed Messages in the Full-Stack Engineer Career Path.",
+    "authors": "Selin Essiz",
+    "version": "1.0.0",
+    "main": "main.js",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    },
+    "type": "module"
+}
